@@ -82,11 +82,11 @@ This project identifies why customers leave a subscription-based telecom service
 ---
 
 ## 🚀 How to Run
-
 1. Download the repository
-2. Open `FUTURE_INTERNS_T2_Cleaned.xlsx` in Microsoft Excel to view cleaned data
-3. Open `ChurnAnalysisDashboard.pbix` in Power BI Desktop
-4. Refresh the data connection if prompted
+2. Open `FUTURE_INTERNS(T2).xlsx` in Microsoft Excel to view cleaned data
+3. Open `FUTURE_INTERNS_TASK_2.pbix` in Power BI Desktop to view the interactive dashboard
+4. View `FUTURE_INTERNS_T2.pdf` for a quick visual summary without opening Power BI
+5. Refresh the data connection if prompted
 
 ---
 
