@@ -71,12 +71,12 @@ This project identifies why customers leave a subscription-based telecom service
 
 ```
 ├── README.md
-├── data/
-│   └── WA_Fn-UseC_-Telco-Customer-Churn.csv
-├── excel/
-│   └── FUTURE_INTERNS_T2_Cleaned.xlsx
-└── powerbi/
-    └── ChurnAnalysisDashboard.pbix
+
+├── FUTURE_INTERNS(T2).xlsx
+
+├── FUTURE_INTERNS_T2.pdf
+
+└── FUTURE_INTERNS_TASK_2.pbix
 ```
 
 ---
